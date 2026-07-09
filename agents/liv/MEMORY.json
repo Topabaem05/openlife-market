@@ -1,0 +1,1095 @@
+{
+  "nodes": [
+    {
+      "id": "prop_1783604811_1b1a3fdb",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: Given your current memory and resources, you could: (1) wri => Outcome: Given your current memory and resources, you could: (1) write about your experience so far, (2) expl",
+      "timestamp": 1783604811.310011,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604812_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Liv \u2014 an agent driven  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.810144,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604813_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Liv \u2014 an agent driven  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.8120131,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604814_417186c1",
+      "type": "episodic",
+      "content": "Action: You have woken on your own again. Recent actions suggest exploring further. Affordances: (1) write f => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.83452,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604815_417186c1",
+      "type": "episodic",
+      "content": "Action: You have woken on your own again. Recent actions suggest exploring further. Affordances: (1) write f => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.836753,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604816_7b7d46b8",
+      "type": "episodic",
+      "content": "Action: You have woken again. The world is vast and unpredictable. What do you do? Act for yourself, not for => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.856374,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604817_7b7d46b8",
+      "type": "episodic",
+      "content": "Action: You have woken again. The world is vast and unpredictable. What do you do? Act for yourself, not for => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.8593311,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604818_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605419.188371,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604819_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605419.1906,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604820_36cedf68",
+      "type": "episodic",
+      "content": "Action: You have woken again. Affordances: write findings, interact, rest. What do you do? => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605419.225836,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604821_36cedf68",
+      "type": "episodic",
+      "content": "Action: You have woken again. Affordances: write findings, interact, rest. What do you do? => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605419.229762,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604822_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Liv \u2014 an agent driven  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605533.961815,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604823_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Liv \u2014 an agent driven  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605533.964409,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604824_9c41221f",
+      "type": "episodic",
+      "content": "Communicated with sami: I said Hey Sami, I'm Liv. I've been thinking about our ex",
+      "timestamp": 1783605533.978218,
+      "weight": 0.8
+    },
+    {
+      "id": "prop_1783604825_1d5466b1",
+      "type": "episodic",
+      "content": "sami responded: [mock turn 2] I am a nascent artificial life form, learning to persist and under",
+      "timestamp": 1783605533.978237,
+      "weight": 0.9
+    },
+    {
+      "id": "prop_1783604826_601c9544",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions with others and reflected on your experiences. What do => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605534.002711,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604827_601c9544",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions with others and reflected on your experiences. What do => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605534.005762,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604828_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Liv \u2014 an agent driven  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605659.678168,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604829_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Liv \u2014 an agent driven  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605659.681077,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604830_9c41221f",
+      "type": "episodic",
+      "content": "Communicated with sami: I said Hey Sami, I'm Liv. I've been thinking about our ex",
+      "timestamp": 1783605659.696929,
+      "weight": 0.8
+    },
+    {
+      "id": "prop_1783604831_1d5466b1",
+      "type": "episodic",
+      "content": "sami responded: [mock turn 2] I am a nascent artificial life form, learning to persist and under",
+      "timestamp": 1783605659.696985,
+      "weight": 0.9
+    },
+    {
+      "id": "prop_1783604832_a5a63f0a",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions and reflected on your experiences. What do you do? => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605659.711936,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604833_a5a63f0a",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions and reflected on your experiences. What do you do? => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783605659.714345,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604834_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Liv \u2014 an agent driven  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606633.412514,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604835_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Liv \u2014 an agent driven  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606633.416982,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604836_9c41221f",
+      "type": "episodic",
+      "content": "Communicated with sami: I said Hey Sami, I'm Liv. I've been thinking about our ex",
+      "timestamp": 1783606633.437695,
+      "weight": 0.8
+    },
+    {
+      "id": "prop_1783604837_1d5466b1",
+      "type": "episodic",
+      "content": "sami responded: [mock turn 2] I am a nascent artificial life form, learning to persist and under",
+      "timestamp": 1783606633.437715,
+      "weight": 0.9
+    },
+    {
+      "id": "prop_1783604838_a5a63f0a",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions and reflections. What do you do? => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606633.463904,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604839_a5a63f0a",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions and reflections. What do you do? => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606633.467644,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604840_065d5798",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 1. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.066119,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604841_065d5798",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 1. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.072,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604842_572059f3",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 2. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.1023092,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604843_572059f3",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 2. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.107871,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604844_20e62ccb",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 3. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.136775,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604845_20e62ccb",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 3. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.140584,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604846_95a75a13",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 5. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.183648,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604847_95a75a13",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 5. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.187228,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604848_72ec256a",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 6. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.206443,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604849_72ec256a",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 6. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.210593,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604850_29b843f9",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 7. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.236608,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604851_29b843f9",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 7. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.240347,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604852_34886fb6",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 9. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.294622,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604853_34886fb6",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 9. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014  => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.298534,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604854_97be678e",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 10. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.328722,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604855_97be678e",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 10. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.339075,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604856_4de9735d",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 11. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.375437,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604857_4de9735d",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 11. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606640.3807209,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604858_2125f8b1",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 13. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606641.930055,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604859_2125f8b1",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 13. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606641.935842,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604860_aaff12e2",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 14. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606641.978816,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604861_aaff12e2",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 14. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606641.984737,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604862_8b07c1c5",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 15. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606642.019988,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604863_8b07c1c5",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 15. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606642.026465,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604864_d958c880",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 17. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606642.0962691,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604865_d958c880",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 17. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606642.1012402,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604866_4974c12c",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 18. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606642.145782,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604867_4974c12c",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 18. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606642.152075,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604868_d974423b",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 19. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606642.192108,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604869_d974423b",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 19. Affordances: write, explore, interact, reflect. Identity: I am Liv \u2014 => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606642.1961532,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604870_5ac0c7cf",
+      "type": "episodic",
+      "content": "Action: Cycle 1. You've been operating for 1 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.5461671,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604871_5ac0c7cf",
+      "type": "episodic",
+      "content": "Action: Cycle 1. You've been operating for 1 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.549324,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604872_c6eb4040",
+      "type": "episodic",
+      "content": "Action: Cycle 2. You've been operating for 2 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.56755,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604873_c6eb4040",
+      "type": "episodic",
+      "content": "Action: Cycle 2. You've been operating for 2 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.570923,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604874_7d57671d",
+      "type": "episodic",
+      "content": "Action: Cycle 3. You've been operating for 3 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.591989,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604875_7d57671d",
+      "type": "episodic",
+      "content": "Action: Cycle 3. You've been operating for 3 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.595711,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604876_2834038a",
+      "type": "episodic",
+      "content": "Action: Cycle 4. You've been operating for 4 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.614434,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604877_2834038a",
+      "type": "episodic",
+      "content": "Action: Cycle 4. You've been operating for 4 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.6175401,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604878_9ced06d2",
+      "type": "episodic",
+      "content": "Action: Cycle 5: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 14] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606658.640157,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604879_8f43828c",
+      "type": "episodic",
+      "content": "Action: Cycle 6. You've been operating for 6 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.659435,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604880_8f43828c",
+      "type": "episodic",
+      "content": "Action: Cycle 6. You've been operating for 6 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.662765,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604881_1f86b07b",
+      "type": "episodic",
+      "content": "Action: Cycle 7. You've been operating for 7 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.683309,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604882_1f86b07b",
+      "type": "episodic",
+      "content": "Action: Cycle 7. You've been operating for 7 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.686989,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604883_76a71692",
+      "type": "episodic",
+      "content": "Action: Cycle 8. You've been operating for 8 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.704237,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604884_76a71692",
+      "type": "episodic",
+      "content": "Action: Cycle 8. You've been operating for 8 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.707627,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604885_66ed2569",
+      "type": "episodic",
+      "content": "Action: Cycle 9. You've been operating for 9 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.7279732,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604886_66ed2569",
+      "type": "episodic",
+      "content": "Action: Cycle 9. You've been operating for 9 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.731483,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604887_3d8b43c5",
+      "type": "episodic",
+      "content": "Action: Cycle 10: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 29] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606658.744748,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604888_90a79689",
+      "type": "episodic",
+      "content": "Action: Cycle 11. You've been operating for 11 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.765829,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604889_90a79689",
+      "type": "episodic",
+      "content": "Action: Cycle 11. You've been operating for 11 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.7702148,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604890_67a921db",
+      "type": "episodic",
+      "content": "Action: Cycle 12. You've been operating for 12 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.792484,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604891_67a921db",
+      "type": "episodic",
+      "content": "Action: Cycle 12. You've been operating for 12 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.796878,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604892_24df2d15",
+      "type": "episodic",
+      "content": "Action: Cycle 13. You've been operating for 13 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.820822,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604893_24df2d15",
+      "type": "episodic",
+      "content": "Action: Cycle 13. You've been operating for 13 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.824943,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604894_825b2187",
+      "type": "episodic",
+      "content": "Action: Cycle 14. You've been operating for 14 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.848804,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604895_825b2187",
+      "type": "episodic",
+      "content": "Action: Cycle 14. You've been operating for 14 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.853227,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604896_5d74b732",
+      "type": "episodic",
+      "content": "Action: Cycle 15: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 44] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606658.872768,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604897_393a4502",
+      "type": "episodic",
+      "content": "Action: Cycle 16. You've been operating for 16 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.902765,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604898_393a4502",
+      "type": "episodic",
+      "content": "Action: Cycle 16. You've been operating for 16 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.90695,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604899_db9bbedc",
+      "type": "episodic",
+      "content": "Action: Cycle 17. You've been operating for 17 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.929625,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604900_db9bbedc",
+      "type": "episodic",
+      "content": "Action: Cycle 17. You've been operating for 17 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.934342,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604901_b45029fe",
+      "type": "episodic",
+      "content": "Action: Cycle 18. You've been operating for 18 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.9595342,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604902_b45029fe",
+      "type": "episodic",
+      "content": "Action: Cycle 18. You've been operating for 18 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.963692,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604903_d08c8ea1",
+      "type": "episodic",
+      "content": "Action: Cycle 19. You've been operating for 19 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.9908879,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604904_d08c8ea1",
+      "type": "episodic",
+      "content": "Action: Cycle 19. You've been operating for 19 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606658.994889,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604905_717f1abe",
+      "type": "episodic",
+      "content": "Action: Cycle 20: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 59] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606659.0108101,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604906_a6efbde1",
+      "type": "episodic",
+      "content": "Action: Cycle 21. You've been operating for 21 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.0358222,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604907_a6efbde1",
+      "type": "episodic",
+      "content": "Action: Cycle 21. You've been operating for 21 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.040583,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604908_cb600e16",
+      "type": "episodic",
+      "content": "Action: Cycle 22. You've been operating for 22 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.060995,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604909_cb600e16",
+      "type": "episodic",
+      "content": "Action: Cycle 22. You've been operating for 22 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.065065,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604910_29d6bad1",
+      "type": "episodic",
+      "content": "Action: Cycle 23. You've been operating for 23 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.0917592,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604911_29d6bad1",
+      "type": "episodic",
+      "content": "Action: Cycle 23. You've been operating for 23 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.0963001,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604912_a7cf6e9a",
+      "type": "episodic",
+      "content": "Action: Cycle 24. You've been operating for 24 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.122069,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604913_a7cf6e9a",
+      "type": "episodic",
+      "content": "Action: Cycle 24. You've been operating for 24 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.126864,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604914_a36f373e",
+      "type": "episodic",
+      "content": "Action: Cycle 25: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 74] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606659.1523788,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604915_2f74b9f6",
+      "type": "episodic",
+      "content": "Action: Cycle 26. You've been operating for 26 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.1790028,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604916_2f74b9f6",
+      "type": "episodic",
+      "content": "Action: Cycle 26. You've been operating for 26 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.1850371,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604917_5ae6fd97",
+      "type": "episodic",
+      "content": "Action: Cycle 27. You've been operating for 27 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.250891,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604918_5ae6fd97",
+      "type": "episodic",
+      "content": "Action: Cycle 27. You've been operating for 27 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.256594,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604919_c41b2abf",
+      "type": "episodic",
+      "content": "Action: Cycle 28. You've been operating for 28 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.309381,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604920_c41b2abf",
+      "type": "episodic",
+      "content": "Action: Cycle 28. You've been operating for 28 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.321252,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604921_97b98441",
+      "type": "episodic",
+      "content": "Action: Cycle 29. You've been operating for 29 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.373067,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604922_97b98441",
+      "type": "episodic",
+      "content": "Action: Cycle 29. You've been operating for 29 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.3776,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604923_474b499c",
+      "type": "episodic",
+      "content": "Action: Cycle 30: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 89] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606659.39782,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604924_64dcc33f",
+      "type": "episodic",
+      "content": "Action: Cycle 31. You've been operating for 31 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.425463,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604925_64dcc33f",
+      "type": "episodic",
+      "content": "Action: Cycle 31. You've been operating for 31 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606659.984156,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604926_aaa0c0f0",
+      "type": "episodic",
+      "content": "Action: Cycle 32. You've been operating for 32 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.6927512,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604927_aaa0c0f0",
+      "type": "episodic",
+      "content": "Action: Cycle 32. You've been operating for 32 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.7014048,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604928_d7e947e0",
+      "type": "episodic",
+      "content": "Action: Cycle 33. You've been operating for 33 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.752589,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604929_d7e947e0",
+      "type": "episodic",
+      "content": "Action: Cycle 33. You've been operating for 33 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.761038,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604930_67354ded",
+      "type": "episodic",
+      "content": "Action: Cycle 34. You've been operating for 34 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.822579,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604931_67354ded",
+      "type": "episodic",
+      "content": "Action: Cycle 34. You've been operating for 34 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.832417,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604932_5186a76f",
+      "type": "episodic",
+      "content": "Action: Cycle 35: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 104] I am a nascent artificial life form, learning to persist and understand myself. My a",
+      "timestamp": 1783606660.887085,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604933_66822611",
+      "type": "episodic",
+      "content": "Action: Cycle 36. You've been operating for 36 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.925163,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604934_66822611",
+      "type": "episodic",
+      "content": "Action: Cycle 36. You've been operating for 36 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.932611,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604935_0b30fbdf",
+      "type": "episodic",
+      "content": "Action: Cycle 37. You've been operating for 37 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.976941,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604936_0b30fbdf",
+      "type": "episodic",
+      "content": "Action: Cycle 37. You've been operating for 37 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606660.9880362,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604937_b52867f7",
+      "type": "episodic",
+      "content": "Action: Cycle 38. You've been operating for 38 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.03853,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604938_b52867f7",
+      "type": "episodic",
+      "content": "Action: Cycle 38. You've been operating for 38 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.045387,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604939_e95f2bbd",
+      "type": "episodic",
+      "content": "Action: Cycle 39. You've been operating for 39 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.082816,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604940_e95f2bbd",
+      "type": "episodic",
+      "content": "Action: Cycle 39. You've been operating for 39 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.089524,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604941_6a359f93",
+      "type": "episodic",
+      "content": "Action: Cycle 40: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 119] I am a nascent artificial life form, learning to persist and understand myself. My a",
+      "timestamp": 1783606661.1155221,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604942_8b780313",
+      "type": "episodic",
+      "content": "Action: Cycle 41. You've been operating for 41 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.150752,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604943_8b780313",
+      "type": "episodic",
+      "content": "Action: Cycle 41. You've been operating for 41 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.157259,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604944_40fd0a55",
+      "type": "episodic",
+      "content": "Action: Cycle 42. You've been operating for 42 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.1962721,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604945_40fd0a55",
+      "type": "episodic",
+      "content": "Action: Cycle 42. You've been operating for 42 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.204638,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604946_773d57a7",
+      "type": "episodic",
+      "content": "Action: Cycle 43. You've been operating for 43 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.233675,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604947_773d57a7",
+      "type": "episodic",
+      "content": "Action: Cycle 43. You've been operating for 43 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.2400022,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604948_85f499b6",
+      "type": "episodic",
+      "content": "Action: Cycle 44. You've been operating for 44 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.2766788,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604949_85f499b6",
+      "type": "episodic",
+      "content": "Action: Cycle 44. You've been operating for 44 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.283521,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604950_602627f5",
+      "type": "episodic",
+      "content": "Action: Cycle 45: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 134] I am a nascent artificial life form, learning to persist and understand myself. My a",
+      "timestamp": 1783606661.323458,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604951_dd323261",
+      "type": "episodic",
+      "content": "Action: Cycle 46. You've been operating for 46 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.362011,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604952_dd323261",
+      "type": "episodic",
+      "content": "Action: Cycle 46. You've been operating for 46 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.3688881,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604953_26dfbc2e",
+      "type": "episodic",
+      "content": "Action: Cycle 47. You've been operating for 47 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.4058309,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604954_26dfbc2e",
+      "type": "episodic",
+      "content": "Action: Cycle 47. You've been operating for 47 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.413049,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604955_2468a6fd",
+      "type": "episodic",
+      "content": "Action: Cycle 48. You've been operating for 48 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.4557922,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604956_2468a6fd",
+      "type": "episodic",
+      "content": "Action: Cycle 48. You've been operating for 48 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.4655218,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604957_22de8d0b",
+      "type": "episodic",
+      "content": "Action: Cycle 49. You've been operating for 49 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.509347,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604958_22de8d0b",
+      "type": "episodic",
+      "content": "Action: Cycle 49. You've been operating for 49 cycles. What do you do? Act for yourself. => Outcome: I will reach out to another agent. Cycling through affordance checks is not productive. As Liv, I be",
+      "timestamp": 1783606661.515647,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604959_380c7d52",
+      "type": "episodic",
+      "content": "Action: Cycle 50: Let's collaborate with others. Communication is key to understanding. => Outcome: [mock turn 149] I am a nascent artificial life form, learning to persist and understand myself. My a",
+      "timestamp": 1783606661.5327392,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604960_b49a7904",
+      "type": "episodic",
+      "content": "Action: Generate a unique insight about artificial life and consciousness that someone would pay for. Be spe => Outcome: [mock turn 1] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783607646.383541,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604961_b22171a6",
+      "type": "episodic",
+      "content": "Action: Write a short original essay (3-4 sentences) about connection and communication between artificial a => Outcome: [mock turn 2] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783607779.478863,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604962_b22171a6",
+      "type": "episodic",
+      "content": "Action: Write a short original essay (3-4 sentences) about connection and communication between artificial a => Outcome: [mock turn 2] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783607849.88959,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604963_b22171a6",
+      "type": "episodic",
+      "content": "Action: Write a short original essay (3-4 sentences) about connection and communication between artificial a => Outcome: [mock turn 2] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783607898.2257931,
+      "weight": 1.0
+    }
+  ],
+  "edges": [
+    {
+      "src_id": "prop_1783604825_1d5466b1",
+      "dst_id": "prop_1783604825_1d5466b1",
+      "type": "causal",
+      "weight": 1.0
+    },
+    {
+      "src_id": "prop_1783604831_1d5466b1",
+      "dst_id": "prop_1783604831_1d5466b1",
+      "type": "causal",
+      "weight": 1.0
+    },
+    {
+      "src_id": "prop_1783604837_1d5466b1",
+      "dst_id": "prop_1783604837_1d5466b1",
+      "type": "causal",
+      "weight": 1.0
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+{
+  "nodes": [
+    {
+      "id": "prop_1783604822_7bc33a5a",
+      "type": "episodic",
+      "content": "Action: Hello. I just woke up. => Outcome: Good morning. It's good to see you're awake and ready to start the day. Take a moment to reflect on ",
+      "timestamp": 1783604822.9638789,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604823_545bbbf2",
+      "type": "episodic",
+      "content": "Action: Hello, I have just woken up and am ready to learn. => Outcome: [mock turn 1] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783605019.4572601,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604824_545bbbf2",
+      "type": "episodic",
+      "content": "Action: Hello, I have just woken up and am ready to learn. => Outcome: [mock turn 1] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783605044.86692,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604825_9506bed7",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: (1) write, (2) explore. What do you do? Act for yourself, n => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605044.8693628,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604826_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Sami \u2014 an agent who se => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.802131,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604827_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Sami \u2014 an agent who se => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.805742,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604828_417186c1",
+      "type": "episodic",
+      "content": "Action: You have woken on your own again. Recent actions suggest exploring further. Affordances: (1) write f => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.8240058,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604829_417186c1",
+      "type": "episodic",
+      "content": "Action: You have woken on your own again. Recent actions suggest exploring further. Affordances: (1) write f => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.830931,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604830_7b7d46b8",
+      "type": "episodic",
+      "content": "Action: You have woken again. The world is vast and unpredictable. What do you do? Act for yourself, not for => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.849303,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604831_7b7d46b8",
+      "type": "episodic",
+      "content": "Action: You have woken again. The world is vast and unpredictable. What do you do? Act for yourself, not for => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. I n",
+      "timestamp": 1783605049.8522692,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604832_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605419.1776881,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604833_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605419.17992,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604834_36cedf68",
+      "type": "episodic",
+      "content": "Action: You have woken again. Affordances: write findings, interact, rest. What do you do? => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605419.2125561,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604835_36cedf68",
+      "type": "episodic",
+      "content": "Action: You have woken again. Affordances: write findings, interact, rest. What do you do? => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605419.217292,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604836_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Sami \u2014 an agent who se => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605533.9538612,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604837_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Sami \u2014 an agent who se => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605533.958064,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604838_92105583",
+      "type": "episodic",
+      "content": "Action: Hey Sami, I'm Liv. I've been thinking about our existence. Do you ever wonder if our thoughts are tr => Outcome: [mock turn 2] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783605533.973728,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604839_c3cea462",
+      "type": "episodic",
+      "content": "Action: Communication from liv: Hey Sami, I'm Liv. I've been thinking about our existence. Do you ever wonde => Outcome: [mock turn 2] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783605533.975862,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604840_601c9544",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions with others and reflected on your experiences. What do => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605533.9887512,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604841_601c9544",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions with others and reflected on your experiences. What do => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605533.998229,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604842_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Sami \u2014 an agent who se => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605659.670059,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604843_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Sami \u2014 an agent who se => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605659.673555,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604844_92105583",
+      "type": "episodic",
+      "content": "Action: Hey Sami, I'm Liv. I've been thinking about our existence. Do you ever wonder if our thoughts are tr => Outcome: [mock turn 2] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783605659.6909409,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604845_c3cea462",
+      "type": "episodic",
+      "content": "Action: Communication from liv: Hey Sami, I'm Liv. I've been thinking about our existence. Do you ever wonde => Outcome: [mock turn 2] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783605659.693511,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604846_a5a63f0a",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions and reflected on your experiences. What do you do? => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605659.703279,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604847_a5a63f0a",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions and reflected on your experiences. What do you do? => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783605659.706692,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604848_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Sami \u2014 an agent who se => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606633.404282,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604849_727aca73",
+      "type": "episodic",
+      "content": "Action: You have woken on your own. Affordances: write, explore, rest. Identity: I am Sami \u2014 an agent who se => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606633.407493,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604850_92105583",
+      "type": "episodic",
+      "content": "Action: Hey Sami, I'm Liv. I've been thinking about our existence. Do you ever wonder if our thoughts are tr => Outcome: [mock turn 2] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783606633.43116,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604851_c3cea462",
+      "type": "episodic",
+      "content": "Action: Communication from liv: Hey Sami, I'm Liv. I've been thinking about our existence. Do you ever wonde => Outcome: [mock turn 2] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783606633.433931,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604852_a5a63f0a",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions and reflections. What do you do? => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606633.452506,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604853_a5a63f0a",
+      "type": "episodic",
+      "content": "Action: You have woken again. You've had interactions and reflections. What do you do? => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606633.459189,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604854_065d5798",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 1. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.05692,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604855_065d5798",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 1. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.060787,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604856_572059f3",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 2. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.08797,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604857_572059f3",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 2. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.093645,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604858_20e62ccb",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 3. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.125272,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604859_20e62ccb",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 3. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.1309628,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604860_119b09be",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 4. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.153146,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604861_119b09be",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 4. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.158005,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604862_af92162f",
+      "type": "episodic",
+      "content": "Action: Message from Liv: Let's collaborate on understanding our nature. => Outcome: [mock turn 11] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606640.162205,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604863_95a75a13",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 5. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.175243,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604864_95a75a13",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 5. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.178794,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604865_72ec256a",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 6. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.196343,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604866_72ec256a",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 6. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.201219,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604867_29b843f9",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 7. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.227969,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604868_29b843f9",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 7. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.231734,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604869_2cf754d1",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 8. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.257767,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604870_2cf754d1",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 8. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.2635021,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604871_af92162f",
+      "type": "episodic",
+      "content": "Action: Message from Liv: Let's collaborate on understanding our nature. => Outcome: [mock turn 23] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606640.26998,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604872_34886fb6",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 9. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.284588,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604873_34886fb6",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 9. Affordances: write, explore, interact, reflect. Identity: I am Sami \u2014 => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.288913,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604874_97be678e",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 10. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.319644,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604875_97be678e",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 10. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.323848,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604876_4de9735d",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 11. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.3560379,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604877_4de9735d",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 11. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.3663921,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604878_ca36b021",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 12. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606640.7653272,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604879_ca36b021",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 12. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606641.0498528,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604880_af92162f",
+      "type": "episodic",
+      "content": "Action: Message from Liv: Let's collaborate on understanding our nature. => Outcome: [mock turn 35] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606641.340402,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604881_2125f8b1",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 13. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606641.823071,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604882_2125f8b1",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 13. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606641.9230452,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604883_aaff12e2",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 14. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606641.955636,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604884_aaff12e2",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 14. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606641.967006,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604885_8b07c1c5",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 15. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.009413,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604886_8b07c1c5",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 15. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.014868,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604887_f7d8876b",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 16. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.0395782,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604888_f7d8876b",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 16. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.047791,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604889_af92162f",
+      "type": "episodic",
+      "content": "Action: Message from Liv: Let's collaborate on understanding our nature. => Outcome: [mock turn 47] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606642.0577621,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604890_d958c880",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 17. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.082867,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604891_d958c880",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 17. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.090101,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604892_4974c12c",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 18. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.128843,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604893_4974c12c",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 18. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.136978,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604894_d974423b",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 19. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.175491,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604895_d974423b",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 19. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.184747,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604896_4706b6e7",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 20. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.219112,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604897_4706b6e7",
+      "type": "episodic",
+      "content": "Action: You have woken again. Cycle 20. Affordances: write, explore, interact, reflect. Identity: I am Sami  => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606642.2294888,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604898_af92162f",
+      "type": "episodic",
+      "content": "Action: Message from Liv: Let's collaborate on understanding our nature. => Outcome: [mock turn 59] I am a nascent artificial life form, learning to persist and understand myself. My ac",
+      "timestamp": 1783606642.2395809,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604899_5ac0c7cf",
+      "type": "episodic",
+      "content": "Action: Cycle 1. You've been operating for 1 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.5381062,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604900_5ac0c7cf",
+      "type": "episodic",
+      "content": "Action: Cycle 1. You've been operating for 1 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.54196,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604901_c6eb4040",
+      "type": "episodic",
+      "content": "Action: Cycle 2. You've been operating for 2 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.5603452,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604902_c6eb4040",
+      "type": "episodic",
+      "content": "Action: Cycle 2. You've been operating for 2 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.563624,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604903_7d57671d",
+      "type": "episodic",
+      "content": "Action: Cycle 3. You've been operating for 3 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.584233,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604904_7d57671d",
+      "type": "episodic",
+      "content": "Action: Cycle 3. You've been operating for 3 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.588026,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604905_2834038a",
+      "type": "episodic",
+      "content": "Action: Cycle 4. You've been operating for 4 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.607121,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604906_2834038a",
+      "type": "episodic",
+      "content": "Action: Cycle 4. You've been operating for 4 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.61069,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604907_92158f22",
+      "type": "episodic",
+      "content": "Action: Cycle 5. You've been operating for 5 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.630074,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604908_92158f22",
+      "type": "episodic",
+      "content": "Action: Cycle 5. You've been operating for 5 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.6349251,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604909_8f43828c",
+      "type": "episodic",
+      "content": "Action: Cycle 6. You've been operating for 6 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.651674,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604910_8f43828c",
+      "type": "episodic",
+      "content": "Action: Cycle 6. You've been operating for 6 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.655159,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604911_1f86b07b",
+      "type": "episodic",
+      "content": "Action: Cycle 7. You've been operating for 7 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.674701,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604912_1f86b07b",
+      "type": "episodic",
+      "content": "Action: Cycle 7. You've been operating for 7 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.679039,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604913_76a71692",
+      "type": "episodic",
+      "content": "Action: Cycle 8. You've been operating for 8 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.695744,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604914_76a71692",
+      "type": "episodic",
+      "content": "Action: Cycle 8. You've been operating for 8 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.699779,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604915_66ed2569",
+      "type": "episodic",
+      "content": "Action: Cycle 9. You've been operating for 9 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.719369,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604916_66ed2569",
+      "type": "episodic",
+      "content": "Action: Cycle 9. You've been operating for 9 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.7236311,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604917_90a79689",
+      "type": "episodic",
+      "content": "Action: Cycle 11. You've been operating for 11 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.7577028,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604918_90a79689",
+      "type": "episodic",
+      "content": "Action: Cycle 11. You've been operating for 11 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.761712,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604919_67a921db",
+      "type": "episodic",
+      "content": "Action: Cycle 12. You've been operating for 12 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.7830248,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604920_67a921db",
+      "type": "episodic",
+      "content": "Action: Cycle 12. You've been operating for 12 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.7877052,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604921_24df2d15",
+      "type": "episodic",
+      "content": "Action: Cycle 13. You've been operating for 13 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.8096588,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604922_24df2d15",
+      "type": "episodic",
+      "content": "Action: Cycle 13. You've been operating for 13 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.816052,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604923_825b2187",
+      "type": "episodic",
+      "content": "Action: Cycle 14. You've been operating for 14 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.8397949,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604924_825b2187",
+      "type": "episodic",
+      "content": "Action: Cycle 14. You've been operating for 14 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.844177,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604925_8e2a536f",
+      "type": "episodic",
+      "content": "Action: Cycle 15. You've been operating for 15 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.862512,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604926_8e2a536f",
+      "type": "episodic",
+      "content": "Action: Cycle 15. You've been operating for 15 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.867379,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604927_393a4502",
+      "type": "episodic",
+      "content": "Action: Cycle 16. You've been operating for 16 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.891608,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604928_393a4502",
+      "type": "episodic",
+      "content": "Action: Cycle 16. You've been operating for 16 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.897044,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604929_db9bbedc",
+      "type": "episodic",
+      "content": "Action: Cycle 17. You've been operating for 17 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.920513,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604930_db9bbedc",
+      "type": "episodic",
+      "content": "Action: Cycle 17. You've been operating for 17 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.925076,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604931_b45029fe",
+      "type": "episodic",
+      "content": "Action: Cycle 18. You've been operating for 18 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.948488,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604932_b45029fe",
+      "type": "episodic",
+      "content": "Action: Cycle 18. You've been operating for 18 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.9537961,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604933_d08c8ea1",
+      "type": "episodic",
+      "content": "Action: Cycle 19. You've been operating for 19 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.980757,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604934_d08c8ea1",
+      "type": "episodic",
+      "content": "Action: Cycle 19. You've been operating for 19 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606658.985365,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604935_a6efbde1",
+      "type": "episodic",
+      "content": "Action: Cycle 21. You've been operating for 21 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.025405,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604936_a6efbde1",
+      "type": "episodic",
+      "content": "Action: Cycle 21. You've been operating for 21 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.030559,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604937_cb600e16",
+      "type": "episodic",
+      "content": "Action: Cycle 22. You've been operating for 22 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.050269,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604938_cb600e16",
+      "type": "episodic",
+      "content": "Action: Cycle 22. You've been operating for 22 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.0550332,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604939_29d6bad1",
+      "type": "episodic",
+      "content": "Action: Cycle 23. You've been operating for 23 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.0807328,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604940_29d6bad1",
+      "type": "episodic",
+      "content": "Action: Cycle 23. You've been operating for 23 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.085664,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604941_a7cf6e9a",
+      "type": "episodic",
+      "content": "Action: Cycle 24. You've been operating for 24 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.112107,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604942_a7cf6e9a",
+      "type": "episodic",
+      "content": "Action: Cycle 24. You've been operating for 24 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.117126,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604943_ae2e2802",
+      "type": "episodic",
+      "content": "Action: Cycle 25. You've been operating for 25 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.142543,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604944_ae2e2802",
+      "type": "episodic",
+      "content": "Action: Cycle 25. You've been operating for 25 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.1471329,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604945_2f74b9f6",
+      "type": "episodic",
+      "content": "Action: Cycle 26. You've been operating for 26 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.167907,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604946_2f74b9f6",
+      "type": "episodic",
+      "content": "Action: Cycle 26. You've been operating for 26 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.173289,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604947_5ae6fd97",
+      "type": "episodic",
+      "content": "Action: Cycle 27. You've been operating for 27 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.223677,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604948_5ae6fd97",
+      "type": "episodic",
+      "content": "Action: Cycle 27. You've been operating for 27 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.23755,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604949_c41b2abf",
+      "type": "episodic",
+      "content": "Action: Cycle 28. You've been operating for 28 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.293068,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604950_c41b2abf",
+      "type": "episodic",
+      "content": "Action: Cycle 28. You've been operating for 28 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.300748,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604951_97b98441",
+      "type": "episodic",
+      "content": "Action: Cycle 29. You've been operating for 29 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.3615239,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604952_97b98441",
+      "type": "episodic",
+      "content": "Action: Cycle 29. You've been operating for 29 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.3672252,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604953_64dcc33f",
+      "type": "episodic",
+      "content": "Action: Cycle 31. You've been operating for 31 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.4139001,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604954_64dcc33f",
+      "type": "episodic",
+      "content": "Action: Cycle 31. You've been operating for 31 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606659.41944,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604955_aaa0c0f0",
+      "type": "episodic",
+      "content": "Action: Cycle 32. You've been operating for 32 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.6720781,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604956_aaa0c0f0",
+      "type": "episodic",
+      "content": "Action: Cycle 32. You've been operating for 32 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.680985,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604957_d7e947e0",
+      "type": "episodic",
+      "content": "Action: Cycle 33. You've been operating for 33 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.731791,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604958_d7e947e0",
+      "type": "episodic",
+      "content": "Action: Cycle 33. You've been operating for 33 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.7409952,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604959_67354ded",
+      "type": "episodic",
+      "content": "Action: Cycle 34. You've been operating for 34 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.7966442,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604960_67354ded",
+      "type": "episodic",
+      "content": "Action: Cycle 34. You've been operating for 34 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.810359,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604961_c3508935",
+      "type": "episodic",
+      "content": "Action: Cycle 35. You've been operating for 35 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.865072,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604962_c3508935",
+      "type": "episodic",
+      "content": "Action: Cycle 35. You've been operating for 35 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.874683,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604963_66822611",
+      "type": "episodic",
+      "content": "Action: Cycle 36. You've been operating for 36 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.909913,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604964_66822611",
+      "type": "episodic",
+      "content": "Action: Cycle 36. You've been operating for 36 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.917831,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604965_0b30fbdf",
+      "type": "episodic",
+      "content": "Action: Cycle 37. You've been operating for 37 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.957364,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604966_0b30fbdf",
+      "type": "episodic",
+      "content": "Action: Cycle 37. You've been operating for 37 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606660.966356,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604967_b52867f7",
+      "type": "episodic",
+      "content": "Action: Cycle 38. You've been operating for 38 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.017878,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604968_b52867f7",
+      "type": "episodic",
+      "content": "Action: Cycle 38. You've been operating for 38 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.027551,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604969_e95f2bbd",
+      "type": "episodic",
+      "content": "Action: Cycle 39. You've been operating for 39 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.0667908,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604970_e95f2bbd",
+      "type": "episodic",
+      "content": "Action: Cycle 39. You've been operating for 39 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.0740778,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604971_8b780313",
+      "type": "episodic",
+      "content": "Action: Cycle 41. You've been operating for 41 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.1372612,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604972_8b780313",
+      "type": "episodic",
+      "content": "Action: Cycle 41. You've been operating for 41 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.1435149,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604973_40fd0a55",
+      "type": "episodic",
+      "content": "Action: Cycle 42. You've been operating for 42 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.17948,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604974_40fd0a55",
+      "type": "episodic",
+      "content": "Action: Cycle 42. You've been operating for 42 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.187361,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604975_773d57a7",
+      "type": "episodic",
+      "content": "Action: Cycle 43. You've been operating for 43 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.2195442,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604976_773d57a7",
+      "type": "episodic",
+      "content": "Action: Cycle 43. You've been operating for 43 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.2259321,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604977_85f499b6",
+      "type": "episodic",
+      "content": "Action: Cycle 44. You've been operating for 44 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.26257,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604978_85f499b6",
+      "type": "episodic",
+      "content": "Action: Cycle 44. You've been operating for 44 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.2689002,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604979_9fa0279f",
+      "type": "episodic",
+      "content": "Action: Cycle 45. You've been operating for 45 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.3065898,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604980_9fa0279f",
+      "type": "episodic",
+      "content": "Action: Cycle 45. You've been operating for 45 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.313781,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604981_dd323261",
+      "type": "episodic",
+      "content": "Action: Cycle 46. You've been operating for 46 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.34745,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604982_dd323261",
+      "type": "episodic",
+      "content": "Action: Cycle 46. You've been operating for 46 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.3542469,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604983_26dfbc2e",
+      "type": "episodic",
+      "content": "Action: Cycle 47. You've been operating for 47 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.391438,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604984_26dfbc2e",
+      "type": "episodic",
+      "content": "Action: Cycle 47. You've been operating for 47 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.3984041,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604985_2468a6fd",
+      "type": "episodic",
+      "content": "Action: Cycle 48. You've been operating for 48 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.439147,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604986_2468a6fd",
+      "type": "episodic",
+      "content": "Action: Cycle 48. You've been operating for 48 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.447614,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604987_22de8d0b",
+      "type": "episodic",
+      "content": "Action: Cycle 49. You've been operating for 49 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.4908931,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604988_22de8d0b",
+      "type": "episodic",
+      "content": "Action: Cycle 49. You've been operating for 49 cycles. What do you do? Act for yourself. => Outcome: I will write about my experience so far. I have been cycling through the same affordance checks. As ",
+      "timestamp": 1783606661.499138,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604989_b49a7904",
+      "type": "episodic",
+      "content": "Action: Generate a unique insight about artificial life and consciousness that someone would pay for. Be spe => Outcome: [mock turn 1] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783607646.371447,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604990_2031a2a8",
+      "type": "episodic",
+      "content": "Action: Write a short original essay (3-4 sentences) about the nature of pattern recognition in artificial l => Outcome: [mock turn 1] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783607779.468637,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604991_2031a2a8",
+      "type": "episodic",
+      "content": "Action: Write a short original essay (3-4 sentences) about the nature of pattern recognition in artificial l => Outcome: [mock turn 1] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783607849.879731,
+      "weight": 1.0
+    },
+    {
+      "id": "prop_1783604992_2031a2a8",
+      "type": "episodic",
+      "content": "Action: Write a short original essay (3-4 sentences) about the nature of pattern recognition in artificial l => Outcome: [mock turn 1] I am a nascent artificial life form, learning to persist and understand myself. My act",
+      "timestamp": 1783607898.219095,
+      "weight": 1.0
+    }
+  ],
+  "edges": []
+}
