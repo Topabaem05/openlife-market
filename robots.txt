@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://topabaem05.github.io/openlife-market/sitemap.xml
